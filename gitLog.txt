@@ -1,0 +1,11 @@
+commit 30762f522d81221475da516570e9e905a7113819
+Author: Natalie Kalin <nataliekalin@mymail.mines.edu>
+Date:   Tue Sep 25 12:13:17 2018 -0600
+
+    Added Exception calls and badscore.txt to files
+
+commit 9cad7c0bdd87c554437a637323797f51fbeb1893
+Author: Natalie Kalin <nataliekalin@mymail.mines.edu>
+Date:   Tue Sep 25 11:51:19 2018 -0600
+
+    Added ScoreTrakker and Student classes
